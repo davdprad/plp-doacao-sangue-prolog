@@ -19,7 +19,7 @@ Ao clonar o projeto, você deve criar um ambiente virtual no diretório do mesmo
 
 Após ativá-lo, você deve instalar as bibliotecas utilizadas no projeto:
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 O ambiente está pronto para executar o projeto. No diretório principal do projeto, execute o comando:
 
