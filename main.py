@@ -1,5 +1,5 @@
 import wx
-from src.interface import MyFrame
+from interface import MyFrame
 
 def main():
     app = wx.App(False)

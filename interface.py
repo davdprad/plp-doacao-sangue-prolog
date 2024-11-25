@@ -1,5 +1,5 @@
 import wx
-from src.doacao_sangue import DoacaoSangue
+from doacao_sangue import DoacaoSangue
 from functools import reduce
 
 class MyFrame(wx.Frame):
