@@ -3,6 +3,14 @@
 
 Sistema Especialista em Prolog para determinar se uma pessoa está apta a doar sangue com base em critérios preestabelecidos.
 
+## Integrantes da equipe
+
+- Bruna Lucas dos Santos
+- David Yan dos Santos Prado
+- Lucas Eduardo Souza de Moura
+- Pedro Henrique Barros Mendonça
+- Raquel da Mota Batista
+
 ## Requisitos
 
 É necessário que você tenha instalado em sua máquina:
