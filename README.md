@@ -3,13 +3,36 @@
 
 Sistema Especialista em Prolog para determinar se uma pessoa está apta a doar sangue com base em critérios preestabelecidos.
 
-## Integrantes da equipe
-
-- Bruna Lucas dos Santos
-- David Yan dos Santos Prado
-- Lucas Eduardo Souza de Moura
-- Pedro Henrique Barros Mendonça
-- Raquel da Mota Batista
+## Equipe
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/BrunaLucad2004.png" width="100" height="100" alt="Avatar de Bruna">
+      <br>
+      <strong><a href="https://github.com/BrunaLucad2004">Bruna Santos</a></strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/davdprad.png" width="100" height="100" alt="Avatar de David">
+      <br>
+      <strong><a href="https://github.com/davdprad">David Prado</a></strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/lucasEduu.png" width="100" height="100" alt="Avatar de Lucas">
+      <br>
+      <strong><a href="https://github.com/lucasEduu">Lucas Moura</a></strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/PedroHenriqueBM.png" width="100" height="100" alt="Avatar de Pedro">
+      <br>
+      <strong><a href="https://github.com/PedroHenriqueBM">Pedro Barros</a></strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kellmb.png" width="100" height="100" alt="Avatar de Raquel">
+      <br>
+      <strong><a href="https://github.com/kellmb">Raquel Batista</a></strong>
+    </td>
+  </tr>
+</table>
 
 ## Requisitos
 
